@@ -1,0 +1,41 @@
+.header {
+    background-color:midnightblue;
+    color: #fff;
+    height: 50px;
+  }
+.header-logo {
+    float: left;
+    font-size: 20px;
+    padding: 10px 40px;
+  }  
+.header-list li {
+    float: left;
+    padding: 15px 20px;
+  }
+  li {
+    list-style: none;
+  }
+
+  .main {
+    padding: 100px 80px;
+
+  }
+.copy-container h1 {
+    font-size: 80px;
+    color:whitesmoke;
+    background-color:midnightblue;
+    padding-left:380px;
+  }
+.contents {
+    height: 500px;
+    margin-top: 100px;
+    
+  }
+.contents-item {
+    float: left;
+    margin-right: 40px;
+        
+  }
+.button {
+    max-width: 600px;
+}
